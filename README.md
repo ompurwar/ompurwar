@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm om purwar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h1 align="left">Hi 👋, I'm om purwar</h1>
+<h3 align="left">A passionate frontend developer from India</h3>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ompurwar" alt="ompurwar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sarangpurwar" target="blank"><img src="https://img.shields.io/twitter/follow/sarangpurwar?logo=twitter&style=for-the-badge" alt="sarangpurwar" /></a> </p>
