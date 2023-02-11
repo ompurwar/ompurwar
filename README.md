@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarangpurwar" target="blank"><img src="https://img.shields.io/twitter/follow/sarangpurwar?logo=twitter&style=for-the-badge" alt="sarangpurwar" /></a> </p>
 
-- 🔭 I’m currently working on [Fi-Plan (A platform that helps you in makeing sensible financial decision)](www.fi-plan.com)
+- 🔭 I’m currently working on [Fi-Plan (A platform that helps you in makeing sensible financial decision)](https://www.fi-plan.com)
 
 - 🌱 I’m currently learning **Tensorflow**
 
