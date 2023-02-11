@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/om-purwar-6ba4416a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-purwar-6ba4416a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/om-purwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="om-purwar" height="30" width="40" /></a>
 <a href="https://instagram.com/code_with_om" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_with_om" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code with om" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with om" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@code_with_om/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with om" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kaidranzerom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaidranzerom" height="30" width="40" /></a>
 </p>
 <br>
