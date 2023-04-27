@@ -24,9 +24,8 @@
 
 <h1>My GitHub Stats:</h1>
 <p>
- <img align="center" src="https://github
--readme-stats.vercel.app/api?username=ompurwar&show_icons=true&locale=en" alt="ompurwar" />
- <br><br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ompurwar&show_icons=true&locale=en" alt="ompurwar" />
+<!--  <br><br> -->
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ompurwar&" alt="ompurwar" />
 </p>
 
